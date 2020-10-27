@@ -1,0 +1,20 @@
+{
+    "Author": "Manjunath Rao G",
+    "ContentSize": 2413,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/delete-azure-blobs-older-than-x-number-of-days/master/delete_blob_before_date.ps1",
+    "DownloadCount": 4062,
+    "Id": "Delete-Azure-blobs-older-873ed7f7",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 23,
+    "RaterCount": 3,
+    "Rating": 5.0,
+    "ReleaseDate": "2018-10-5T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script deletes Azure blobs that are older than X days.Provide the Azure Storage Account name, access key and container name as input.A log file is created tracking the details of blobs that are deleted. Including the count of deleted blobs.You can create an Azure Automation",
+    "Title": "Delete Azure blobs older than X number of days",
+    "UpdatedDate": "2018-10-12T00:00:00",
+    "Url": "https://github.com/azureautomation/delete-azure-blobs-older-than-x-number-of-days",
+    "UserTags": "Microsoft Azure, Powershell, Azure Blob Storage"
+}
